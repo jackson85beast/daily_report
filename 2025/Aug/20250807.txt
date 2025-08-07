@@ -1,0 +1,12 @@
+Using Git Commands
+    - git status
+    - git add . or file_name
+    - git commit -m "description" or -am (add and commit)
+    - git push origin branch_name
+    - git diff branch_name
+    - git pull origin branch_name
+    - git checkout -b branch_name (create new branch)
+    - git branch (list of branches)
+    - git reset or reset HEAD~1 (go back to previous stage)
+    - git merge branch_name
+    extra git pull request
