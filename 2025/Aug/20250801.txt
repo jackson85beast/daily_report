@@ -1,0 +1,31 @@
+wsl commands:
+- wsl
+
+docker command:
+- docker compose up
+- docker kill process_id
+- docker ps
+
+Linux venv commands:
+- source venv/bin/activate
+- deactivate
+
+alembic commands:
+- alembic upgrade up
+- alembic init alembic
+- alembic revision --autogenerate -m "Your migration file name"
+- alembic downgrade -1
+- alembic downgrade base
+- alembic current
+- alembic history
+- alembic upgrade +1
+
+Docker commands:
+- docker ps
+- docker kill container_id or image
+- docker compose up
+- docker rm
+- docker --help
+- docker stop, start, restart
+- docker update
+- docker top

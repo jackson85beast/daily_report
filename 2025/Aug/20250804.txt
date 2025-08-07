@@ -1,0 +1,48 @@
+Win10 activate method
+    Step 1. Open PowerShell as Administrator
+
+    Step 2. Run the Activation Script
+
+    irm https://get.activated.win | iex
+
+    Step 3. Choose the HWID Option
+
+wsl ubuntu reinstall
+    username; jacks
+    password; beast
+
+React Testing exercise
+the principle of the testing is to check texts and attributes of every elements 
+that are in the DOM after inject sample data to the component to be checked and rendered
+
+    education video url; https://www.youtube.com/watch?v=JBSUgDxICg8&pp=0gcJCfwAo7VqN5tD
+    test-library website url; testing-library.com
+
+    - install command to install Jest for React Project
+        npm i -D @testing-library/jest-dom  ->  for mac system
+
+    - using functions in test file
+        test file name; ComponentName(to be test).test.js(tsx, ...)
+        import test library
+        totally function; describe('ComponentName', arrow function (e.g, () => {}))
+        render()
+        screen.getByRole(), getByText()
+        expect().toBeInTheDocument()
+
+React Project Run
+    - command
+        npm run dev 
+        npm start
+
+Docker commands
+    - docker images
+    - docker compose up -d; run images in the background
+
+Jest Install Commands
+    - npm init jest@latest -> jsdom chosen, babel chosen
+
+How to generate the tsconfig.json
+    - npm install --save-dev typescript
+    - npx tsc --init
+
+//////////////////////WindSurf, Cursor//////////////////////
