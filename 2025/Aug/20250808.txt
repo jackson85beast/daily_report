@@ -1,0 +1,8 @@
+create the cursor account with jaylor9885beast@gmail.com
+
+freelancer 7 bid
+
+Project -> News Intelligence Assistant
+    using stack:
+        web scraping - beautifulsoup 
+        

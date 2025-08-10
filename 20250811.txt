@@ -1,0 +1,28 @@
+The most popular stacks in 2025
+    1. frontend
+        react.js -> intermediate
+        next.js
+        tailwind CSS -> intermediate
+        TypeScript -> intermediate
+        React Native
+
+    2. Backend
+        node.js + Express or NestJS
+        Python + FastAPI / Django -> intermediate
+        java + Spring Boot
+        Golang
+
+    3. databases
+        PostreSQL -> intermediate
+        MySQL -> intermediate
+        Mongo DB
+
+    4. DevOps/Cloud
+        docker + Kubernetes
+
+    5. AI / Data
+        Python (Pandas, Numpy, PyTorch, Tensorflow)
+        OpenAI, RAG -> intermediate
+        Vector databases: pinecone, FAISS, Weaviate
+
+Freelancer Bids : 4 bids (php, web scraping, ...)
